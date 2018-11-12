@@ -155,7 +155,7 @@ div#winnerAlert p#rating {
 
 div#winnerAlert button {
     position: absolute;
-    bottom: 10px;
+    bottom: 20px;
     left: 40%;
     text-transform: uppercase;
     font-weight: 600;
