@@ -33,6 +33,11 @@ h1 {
     font-weight: 300;
 }
 
+a {
+    font-style: italic;
+    color: #784b9c;
+}
+
 /*
  * Styles for the deck of cards
  */
