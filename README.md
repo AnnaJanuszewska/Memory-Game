@@ -12,5 +12,5 @@ You can always restart your game with the restart button in score panel. It rest
 
 Good luck!!
 
-
-
+## Technologies
+HTML5, CSS, Flexbox, JavaScript, jQuery
