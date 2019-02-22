@@ -14,7 +14,7 @@ function generateCard(card) {
 };
 
 
-// Shuffle function from http://stackoverflow.com/a/2450976
+
 function shuffle(array) {
     var currentIndex = array.length, temporaryValue, randomIndex;
 
@@ -29,7 +29,7 @@ function shuffle(array) {
     return array;
 };
 
-//function was inspired by Webinar with Mike Wales
+
 function initGame() {
     var deck = document.querySelector(".deck");
 
@@ -58,7 +58,7 @@ function removeStar() {
 let moves = 0;
 const movesCounter = document.querySelector(".moves");
 
-//function was inspired by Webinar with Mike Wales
+
 function slipCards() {
     const allCards = document.querySelectorAll(".card");
     let openCards = [];
